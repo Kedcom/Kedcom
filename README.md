@@ -1,10 +1,10 @@
-## Hi, I'm Derrick 👋
+# Hi, I'm Derrick 👋
 
 I'm a Software Engineer and Computer Science student at Acadia University, 
-currently working as a Frontend Developer on a production MERN stack application 
+Currently working as a Frontend Developer on a production MERN stack application 
 with AI integration.
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
